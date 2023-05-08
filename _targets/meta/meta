@@ -1,6 +1,6 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
 data|stem|b4418bac719e0640|4525b922227c51ac|e54b1ab876ad83f1|1588979285||t19485.733420931s|98949606cf9cbcae|1356|rds|local|vector|||0.175||
-file|stem|8c700c112b509791|0d4b7516032e01d0|ef46db3751d8e999|-1301001980|data.csv|t19485.7057416363s|44327dbf2133fe9e|2889|file|local|vector|||0.195||
+file|stem|8c700c112b509791|fe6924c53fe164ad|c3b5fc02cdc369c1|-1301001980|/Users/jelsner/Desktop/Projects/try_targets/data/data.csv|t19485.7057416363s|44327dbf2133fe9e|2889|file|local|vector|||0.143||
 fit_model|function|5fc25d9912b02def|||||||||||||||
 get_data|function|aff5c9d49a349505|||||||||||||||
 model|stem|a45e7518b5fa704f|f3249b4ecf290e96|fb819f746db25519|1816327236||t19485.7061414115s|ebd1054f3f481e45|110|rds|local|vector|||0.002||
